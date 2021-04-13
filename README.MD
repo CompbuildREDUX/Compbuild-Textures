@@ -17,3 +17,11 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 + Continuum 2.1 (https://continuum.graphics/store/)
 + Kappa Shaders (https://rre36.com/kappa-shader)
 + BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders)
+
+## Connect with Compbuild
+
+Want to stay anticipated for updates? Compbuild also has social media to connect with! Catch up with the latest updates and news on our Discord server, and follow us on Instagram!
+
++ Instagram (https://www.instagram.com/compbuildredux/)
++ Twitter (https://twitter.com/compbuildredux)
++ Discord (https://discord.gg/Kw7stMa)
