@@ -20,7 +20,7 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 + Kappa Shaders (https://rre36.com/kappa-shader)
 + BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders)
 
-## Optional (but recommended) Mods/Compatible tools (but recommended)
+## Optional (but recommended) Mods/Compatible tools
 
 + WorldEdit (MOD: https://www.curseforge.com/minecraft/mc-mods/worldedit) (Server Plugin: https://dev.bukkit.org/projects/worldedit/)
 + Shaders
