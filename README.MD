@@ -20,6 +20,12 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 + Kappa Shaders (https://rre36.com/kappa-shader)
 + BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders)
 
+## Optional (but recommended) Mods/Compatible tools (but recommended)
+
++ WorldEdit (MOD: https://www.curseforge.com/minecraft/mc-mods/worldedit) (Server Plugin: https://dev.bukkit.org/projects/worldedit/)
++ Shaders
++ Any mod that lets corals stay alive outside of water
+
 ## Connect with Compbuild
 
 Want to stay anticipated for updates? Compbuild also has social media to connect with! Catch up with the latest updates and news on our Discord server, and follow us on Instagram!
