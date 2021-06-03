@@ -35,3 +35,9 @@ Want to stay anticipated for updates? Compbuild also has social media to connect
 + Instagram (https://www.instagram.com/compbuildredux/)
 + Twitter (https://twitter.com/compbuildredux)
 + Discord (https://discord.gg/Kw7stMa)
+
+## Want to gain early access to the new pack releases?
+
+Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! (https://www.patreon.com/compbuildredux)
+
+
