@@ -39,6 +39,6 @@ Want to stay anticipated for updates? Compbuild also has social media to connect
 
 ## Want to gain early access to the new pack releases?
 
-Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! (https://www.patreon.com/compbuildredux)
+Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! You can also participate in BOTW and get access to a full month of early access to updates. (https://www.patreon.com/compbuildredux)
 
 
