@@ -27,7 +27,7 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 + WorldEdit (Singleplayer MOD: https://www.curseforge.com/minecraft/mc-mods/worldedit) (Server Plugin: https://dev.bukkit.org/projects/worldedit/)
 + Compbuild Textures PBR Addon (https://github.com/CompbuildREDUX/Compbuild-Textures-PBR-Addon)
 + Shaders
-+ Any mod that lets corals stay alive outside of water
++ Any mod that lets corals stay alive outside of water, datapacks can also be used
 
 ## Connect with Compbuild
 
