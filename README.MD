@@ -2,11 +2,11 @@
 
 Compbuild Textures is a resource pack with over 1000+ unique custom vanilla models. We have one-of-a-kind features that no other resource packs have such as biome-dependent models, textures, and more! Compbuild specializes in realism and creating the most realistic environments within Minecraft. What makes the pack special is that we have furniture, flora, and a large variety of blocks to choose from.
 
-# Free
+##### Free
 
 Compbuild Textures is, always, completely free and available. There is no paid support, paid updates, no trial/full version, nothing. The only paywall we include is early access to updates to those who are a patron. 
 
-# Why?
+##### Why?
 
 There are a lot of high quality packs that have similar content like us, but most of them are locked behind an expensive paywall. Some of those packs are very decieving and do not offer the content they include in their screenshots. All screenshots of ours can be done and re-created by everyone who knows how to use our pack. 
 
