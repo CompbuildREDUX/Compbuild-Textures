@@ -16,7 +16,7 @@ There are a lot of high quality packs that have similar content like us, but mos
 
 ## How to install
 
-1. Install OptiFine 1.14.4 (https://optifine.net/downloads)
+1. Install OptiFine 1.17.1 (https://optifine.net/downloads)
 2. Download the latest release of the pack
 3. Once you've downloaded the pack, move the .ZIP folder to `AppData\Roaming\.minecraft\resourcepacks`
 4. Enjoy the pack! You can visit our creative server to see what features we have by typing /warp Pack on the server.
