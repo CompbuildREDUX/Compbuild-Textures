@@ -4,7 +4,7 @@ Compbuild Textures is a resource pack with over 1000+ unique custom vanilla mode
 
 #### Free
 
-Compbuild Textures is, always, completely free and available. There is no paid support, paid updates, no trial/full version, nothing. The only paywall we include is early access to updates to those who are a patron. 
+Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. The only paywall we include is early access to updates to those who are a patron. 
 
 #### Why?
 
