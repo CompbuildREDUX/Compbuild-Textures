@@ -21,7 +21,7 @@ There are a lot of high quality packs that have similar content like us, but mos
 3. Once you've downloaded the pack, move the .ZIP folder to `AppData\Roaming\.minecraft\resourcepacks`
 4. Enjoy the pack! You can visit our creative server to see what features we have by typing /warp Pack on the server.
 
-A video tutorial on how to install the pack can be found here. https://youtu.be/ZaEhX5pRWdE
+A video tutorial on how to install the pack can be found here. https://youtu.be/AtZuDbSjCGE
 
 ## Extras
 
