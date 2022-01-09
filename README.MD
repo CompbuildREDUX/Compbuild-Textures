@@ -4,11 +4,11 @@ Compbuild Textures is a resource pack with over 1000+ unique custom vanilla mode
 
 #### Free
 
-Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. The only paywall we include is early access to updates to those who are a patron. 
+Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. You are only being charged if you'd like early access to new releases. 
 
 #### Why?
 
-There are a lot of high quality packs that have similar content like us, but most of them are locked behind an expensive paywall. Some of those packs are very decieving and do not offer the content they include in their screenshots. All screenshots of ours can be done and re-created by everyone who knows how to use our pack. 
+There are a lot of high quality packs that have similar content, but most of them are locked behind an expensive paywall or they're extremely deceiving. Everything that you see our pack can do - you can do it.
 
 
 
@@ -16,7 +16,7 @@ There are a lot of high quality packs that have similar content like us, but mos
 
 ## How to install
 
-1. Install OptiFine 1.17.1 (https://optifine.net/downloads)
+1. Install OptiFine 1.18.1 (https://optifine.net/downloads)
 2. Download the latest release of the pack
 3. Once you've downloaded the pack, move the .ZIP folder to `AppData\Roaming\.minecraft\resourcepacks`
 4. Enjoy the pack! You can visit our creative server to see what features we have by typing /warp Pack on the server.
