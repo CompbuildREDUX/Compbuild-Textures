@@ -42,7 +42,7 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 
 ## Connect with Compbuild
 
-Want to stay anticipated for updates? Compbuild also has social media to connect with! Catch up with the latest updates and news on our Discord server, and follow us on Instagram!
+Connect with us on social media! Regular updates are announced here.
 
 + Instagram (https://www.instagram.com/compbuildredux/)
 + Twitter (https://twitter.com/compbuildredux)
