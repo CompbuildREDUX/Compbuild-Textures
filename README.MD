@@ -1,6 +1,6 @@
 ## Compbuild Textures Realism
 
-Compbuild Textures is a resource pack with over 1000+ unique custom vanilla models. We have one-of-a-kind features that no other resource packs have such as biome-dependent models, textures, and more! Compbuild specializes in realism and creating the most realistic environments within Minecraft. What makes the pack special is that we have furniture, flora, and a large variety of blocks to choose from. What makes Compbuild Textures unique is that we always strive to innovate content, we're always up to date with the latest version of Minecraft and nothing will stop us from doing so. 
+Compbuild Textures is a resource pack with over 1000+ unique custom vanilla models. We have one-of-a-kind features that no other resource packs have such as biome-dependent models, textures, high quality CIT models, and more! Compbuild specializes in realism and creating the most realistic environments within Minecraft. What makes the pack special is that we have furniture, flora, and a large variety of blocks to choose from. What makes Compbuild Textures unique is that we always strive to innovate content, we're always up to date with the latest version of Minecraft and nothing will stop us from doing so. 
 
 #### Free
 
@@ -47,6 +47,10 @@ Connect with us on social media! Regular updates are announced here.
 + Instagram (https://www.instagram.com/compbuildredux/)
 + Twitter (https://twitter.com/compbuildredux)
 + Discord (https://discord.gg/Kw7stMa)
+
+## How can I view all the stuff in Compbuild Textures?
+
+Visit our server! `play.compbuildredux.net` is our IP. Once you're in the server type /rules and type /accept. Once you're in, type /warp Pack and you'll be able to warp to different sections of the pack. Currently, we have Models, CIT, Blocks, and Flora.
 
 ## Want to gain early access to the new pack releases?
 
