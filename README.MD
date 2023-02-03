@@ -4,15 +4,13 @@
 
 Compbuild Textures is a realistic resource pack. Designed for Minecraft Architecture, Compbuild can be used for so much more. There are thousands of unique models available through biome dependency and custom item models that you can place. With Compbuild Textures, you can create realistic envrionments all within Minecraft with no cost. We are always up-to-date with the latest Minecraft features, our pack will be on the latest version of Minecraft most of the time. 
 
-#### Free
+#### Up-to-date, active, and free?
 
-Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. You are only being charged if you'd like early access to new releases. 
+Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. You are only being charged if you'd like early access to new releases. We also strive to be on the latest version of Minecraft. A lot of texture packs that have similar content to us usually are stuck on a version or are extremely slow at updates. We're sometimes quite literally faster than the speed of light at updates at maximum quality.
 
 #### Why?
 
 There are a lot of high quality packs that have similar content, but most of them are locked behind an expensive paywall or they're extremely deceiving. Everything that you see our pack can do - you can do it.
-
-
 
 ***If you need help installing the pack, or want to suggest a feature. Join our Discord server!***
 
