@@ -6,11 +6,11 @@ Compbuild Textures is a realistic resource pack. Designed for Minecraft Architec
 
 #### Up-to-date, active, and free?
 
-Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. You are only being charged if you'd like early access to new releases. We also strive to be on the latest version of Minecraft. A lot of texture packs that have similar content to us usually are stuck on a version or are extremely slow at updates. We're sometimes quite literally faster than the speed of light at updates at maximum quality.
+Compbuild Textures is, always, completely free and available. There is no paid support, no paid updates, no trial/full version, nothing. You are only being charged if you'd like early access to new releases. We also strive to be on the latest version of Minecraft, constantly updating. 
 
 #### Why?
 
-There are a lot of high quality packs that have similar content, but most of them are locked behind an expensive paywall or they're extremely deceiving. Everything that you see our pack can do - you can do it.
+There are a lot of high quality packs that have similar content, but most of them are locked behind an expensive paywall or they're extremely deceiving. A lot of texture packs that have similar content to us usually are stuck on a version or are extremely slow at updates. We're sometimes quite literally faster than the speed of light at updates at maximum quality.
 
 ***If you need help installing the pack, or want to suggest a feature. Join our Discord server!***
 
