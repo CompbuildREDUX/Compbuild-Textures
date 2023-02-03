@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/59810988/216649000-8f6d56b3-3be0-4869-a80f-aa1753b4214d.png)
-
+![image](https://user-images.githubusercontent.com/59810988/216649884-19834dcd-3abf-4cac-997f-66ec7825c447.png)
 
 ## Compbuild Textures Realism
 
