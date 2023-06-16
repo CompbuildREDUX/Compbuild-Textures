@@ -52,6 +52,8 @@ Connect with us on social media! Regular updates are announced here.
 
 Visit our server! `play.compbuildredux.net` is our IP. Once you're in the server type /rules and type /accept. Once you're in, type /warp Pack and you'll be able to warp to different sections of the pack. Currently, we have Models, CIT, Blocks, and Flora.
 
+We also have a pack reference world and schematic that is available to download as a Minecraft map or schematic on our PlanetMinecraft https://www.planetminecraft.com/project/compbuild-textures-reference-world/
+
 ## Want to gain early access to the new pack releases?
 
 Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! (https://www.patreon.com/compbuildredux)
