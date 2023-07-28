@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/59810988/216649884-19834dcd-3abf-4cac-997f-66ec7825c447.png)
+![image](https://i.imgur.com/dRHT2oK.png)
 
 ## Compbuild Textures
 
