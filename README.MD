@@ -31,6 +31,8 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 + Continuum 2.1 (https://continuum.graphics/store/)
 + Kappa Shaders (https://rre36.com/kappa-shader)
 + BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders)
++ Photon Shaders (https://wiki.shaderlabs.org/wiki/Photon)
++ SnowImagined (https://modrinth.com/shader/snowimagined)
 
 ## Optional (but recommended) Mods/Compatible tools
 
