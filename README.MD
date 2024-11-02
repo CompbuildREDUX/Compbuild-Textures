@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/dRHT2oK.png)
+![image](https://i.imgur.com/BBwZULz.png)
 
 ## Compbuild Textures
 
