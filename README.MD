@@ -16,7 +16,7 @@ There are a lot of high quality packs that have similar content, but most of the
 
 ## How to install
 
-1. Install OptiFine 1.21.4 (https://optifine.net/downloads)
+1. Install Luminium (https://modrinth.com/modpack/luminium), or OptiFine 1.21.5 (https://optifine.net/downloads)
 2. Download the latest release of the pack
 3. Once you've downloaded the pack, move the .ZIP folder to `AppData\Roaming\.minecraft\resourcepacks`
 4. Enjoy the pack! You can visit our creative server to see what features we have by typing /warp Pack on the server.
